@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "SSH FS - unnamed",
+			"uri": "ssh://unnamed/"
+		}
+	],
+	"settings": {
+		"sshfs.configs": [
+			{
+				"name": "unnamed"
+			}
+		]
+	}
+}
